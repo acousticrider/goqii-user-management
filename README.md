@@ -68,8 +68,7 @@ goqii-user-management/
 ## Author
 
 Parth Upadhyay  
-Email: your.email@example.com  
-LinkedIn: https://linkedin.com/in/yourprofile  
+Email: parth8upadhyay@gmail.com   
 GitHub: https://github.com/acousticrider
 
 ---
