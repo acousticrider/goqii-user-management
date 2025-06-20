@@ -1,0 +1,1 @@
+<?php echo "GOQii API Working!"; ?>
